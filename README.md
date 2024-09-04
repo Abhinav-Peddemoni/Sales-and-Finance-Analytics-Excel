@@ -35,10 +35,10 @@ This project is focused on achieving the following key objectives:
 - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 
 ## Brief Gist of Technical Skills:
-- Data Analysis Techniques: Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
-- Power Query: Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
-- Power Pivot: Established data model relationships and incorporated supplementary data effectively.
-- DAX (Data Analysis Expressions): Used DAX to create calculated columns for advanced analytics.
+- **Data Analysis Techniques:** Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
+- **Power Query:** Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
+- **Power Pivot:** Established data model relationships and incorporated supplementary data effectively.
+- **DAX (Data Analysis Expressions):** Used DAX to create calculated columns for advanced analytics.
 
 ## Soft Skills
 
