@@ -3,7 +3,7 @@
 
 ## Introduction about AtliQ Hardwares
 
-- AtliQ Hardware is a company that specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various other peripheral devices. Their diverse product lineup appeals to a broad range of customers.
+- AtliQ Hardware is a company that specializes in selling a wide range of hardware products, including personal computers, mouses, printers, and various other peripheral devices. Their diverse product lineup appeals to a broad range of customers.
 
 - AtliQ not only sells these hardware goods but also manufactures them. To make these products available to customers, they use intermediaries. These intermediaries can be physical retail giants like Croma and Best Buy and popular online marketplaces such as Flipkart and Amazon.
 
